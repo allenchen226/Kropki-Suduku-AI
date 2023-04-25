@@ -1,1 +1,1 @@
-# Kropki-Suduku-AI
+Inside this repository, you will find an AI program specifically created to solve Kropki Sudoku puzzles - a Sudoku variant that utilizes dots in addition to numbers to facilitate the puzzle-solving process. By leveraging advanced algorithms and machine learning techniques, the program can swiftly generate solutions to Kropki Sudoku puzzles.
